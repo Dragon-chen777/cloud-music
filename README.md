@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-
+### 网易云音乐Api: https://github.com/Binaryify/NeteaseCloudMusicApi
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
